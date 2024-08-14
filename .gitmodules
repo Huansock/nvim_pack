@@ -1,0 +1,12 @@
+[submodule "site/pack/coq/start/coq_nvim"]
+	path = site/pack/coq/start/coq_nvim
+	url = https://github.com/ms-jpq/coq_nvim.git
+	branch = coq
+[submodule "site/pack/coq/start/coq.artifacts"]
+	path = site/pack/coq/start/coq.artifacts
+	url = https://github.com/ms-jpq/coq.artifacts.git
+	branch = artifacts
+[submodule "site/pack/coq/start/coq.thirdparty"]
+	path = site/pack/coq/start/coq.thirdparty
+	url = https://github.com/ms-jpq/coq.thirdparty.git
+	branch = 3p

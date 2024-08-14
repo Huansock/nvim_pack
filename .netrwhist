@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/usok/Code/Rust/pyrust/src'
+let g:netrw_dirhist_4='/Users/usok/Code/Rust/pyrust'
+let g:netrw_dirhist_3='/Users/usok/.local/share/nvim/site/pack/coq/start/coq.thirdparty/lua/coq-deoplete'
+let g:netrw_dirhist_2='/Users/usok/.local/share/nvim/site/pack/coq/start/coq.thirdparty/lua'
+let g:netrw_dirhist_1='/Users/usok/.local/share/nvim/site/pack/coq/start/coq.thirdparty'
+let g:netrw_dirhist_0='/Users/usok/.local/share/nvim/site/pack/coq/start'
+let g:netrw_dirhist_9='/Users/usok/.local/share/nvim/site/pack/coq'
+let g:netrw_dirhist_8='/Users/usok/.local/share/nvim/site/pack/coq/start'
+let g:netrw_dirhist_7='/Users/usok/.local/share/nvim'
+let g:netrw_dirhist_6='/Users/usok/.config/nvim'
