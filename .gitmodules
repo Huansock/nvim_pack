@@ -16,9 +16,6 @@
 [submodule "site/pack/syntax/start/autoclose.nvim"]
 	path = site/pack/syntax/start/autoclose.nvim
 	url = https://github.com/m4xshen/autoclose.nvim
-[submodule "site/pack/syntax/start/tabout.nvim"]
-	path = site/pack/syntax/start/tabout.nvim
-	url = https://github.com/abecodes/tabout.nvim
 [submodule "site/pack/syntax/start/lightline.vim"]
 	path = site/pack/syntax/start/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
