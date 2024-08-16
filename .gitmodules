@@ -10,3 +10,18 @@
 	path = site/pack/coq/start/coq.thirdparty
 	url = https://github.com/ms-jpq/coq.thirdparty.git
 	branch = 3p
+[submodule "site/pack/theme/start/gruvbox.nvim"]
+	path = site/pack/theme/start/gruvbox.nvim
+	url = https://github.com/ellisonleao/gruvbox.nvim
+[submodule "site/pack/syntax/start/autoclose.nvim"]
+	path = site/pack/syntax/start/autoclose.nvim
+	url = https://github.com/m4xshen/autoclose.nvim
+[submodule "site/pack/syntax/start/tabout.nvim"]
+	path = site/pack/syntax/start/tabout.nvim
+	url = https://github.com/abecodes/tabout.nvim
+[submodule "site/pack/syntax/start/tabtree.nvim"]
+	path = site/pack/syntax/start/tabtree.nvim
+	url = https://github.com/roobert/tabtree.nvim
+[submodule "site/pack/syntax/start/lightline.vim"]
+	path = site/pack/syntax/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
